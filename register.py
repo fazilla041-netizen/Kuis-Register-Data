@@ -1,0 +1,36 @@
+print(" ==== BIODATA ==== ")
+
+# input biodata
+NIK = input("NIK : ")
+Nama = input("Nama : ")
+Tempat_TglLahir = input("Tempat/Tgl Lahir : ")
+JenisKelamin = input ("Jenis Kelamin : ")
+Alamat = input("Alamat : ")
+RT_RW = input("RT/RW : ")
+Kel_Desa = input("Kel/ Desa : ")
+Kecamatan = input("Kecamatan : ")
+Agama = input("Agama : ")
+StatusPerkawinan = input("Status Perkawinan : ")
+Pekerjaan = input("Pekerjaan : ")
+Kewarganegaraan = input("Kewarganegaraan : ")
+BerlakuHingga = input("Berlaku Hingga : ")
+Hobi = input("Hobi : ")
+
+# output biodata
+print(" ==== PROFIL BIODATA ====")
+
+print("NIK : ", NIK)
+print("Nama : ", Nama)
+print("Tempat/Tgl Lahir : ", Tempat_TglLahir)
+print("Jenis Kelamin : ", JenisKelamin)
+print("Alamat : ", Alamat)
+print("RT/RW : ", RT_RW)
+print("Kecamatan : ", Kecamatan)
+print("Agama : ", Agama)
+print("Status Perkawinan : ", StatusPerkawinan)
+print("Pekerjan : ", Pekerjaan)
+print("Kewarganegaraan : ", Kewarganegaraan)
+print("Berlaku Hingga : ", BerlakuHingga)
+print("Hobi : ", Hobi)
+
+print(" ==== Register Berhasil! ==== ")
